@@ -1,3 +1,1 @@
-import requests
-from bs4 import BeautifulSoup
-import json
+The project is about Data Scraping form Newspapers. 
