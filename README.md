@@ -119,10 +119,7 @@ The final output file (`scraped_metadata_with_sentiment.json`) will contain the 
 }
 ```
 
-## Customization
 
-- **International Perspective**: You can integrate a custom LLM to detect whether the news has an international perspective relative to Bangladesh.
-- **News Importance Score**: You can use additional NLP models or machine learning models to generate a more complex score for the news importance.
 
 ## Contributing
 
